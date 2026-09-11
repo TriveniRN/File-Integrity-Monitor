@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# File Integrity Monitor generated files
+baseline/
+logs/
+reports/
+protected_files/
+marks.txt
